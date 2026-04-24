@@ -10,10 +10,10 @@ como System Prompts em qualquer chat de IA:
 
 | Agente | Arquivo | Função |
 |--------|---------|--------|
-| 🛠️ **CODE** | [`code-agent.md`](prompts/code-agent.md) | Implementa código pronto para o projeto |
-| ❓ **ASK**  | [`ask-agent.md`](prompts/ask-agent.md)   | Responde dúvidas sem alterar código |
-| 📋 **PLAN** | [`plan-agent.md`](prompts/plan-agent.md) | Planeja antes de codar |
-| 📖 **STUDY**| [`study-agent.md`](prompts/study-agent.md)| Tutor de aprendizado ativo |
+| 🛠️ **CODE** | [`code-agent.md`](Prompts/code-agent.md) | Implementa código pronto para o projeto |
+| ❓ **ASK**  | [`ask-agent.md`](Prompts/ask-agent.md)   | Responde dúvidas sem alterar código |
+| 📋 **PLAN** | [`plan-agent.md`](Prompts/plan-agent.md) | Planeja antes de codar |
+| 📖 **STUDY**| [`study-agent.md`](Prompts/study-agent.md)| Tutor de aprendizado ativo |
 
 ## 🛠️ Stack atual
 
@@ -33,7 +33,6 @@ Os prompts estão adaptados para:
 
 Os prompts têm uma seção `STACK (EDITÁVEL)` no topo.
 Basta trocar as tecnologias para a sua realidade.
-Veja o guia: [`docs/como-adaptar-para-sua-stack.md`](docs/como-adaptar-para-sua-stack.md)
 
 ## 📄 Licença
 
